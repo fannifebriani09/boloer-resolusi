@@ -2,7 +2,10 @@ Rencana Konten Boloer
 
 - Panduan cara ngoding
   + laravel
+   ^ php artisan serve
   + codeigniter
 - Wawancara  
+ ^ publik
 - Infografik
 - Daftar atau list
+- Review
