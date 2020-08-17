@@ -3,5 +3,6 @@ Rencana Konten Boloer
 - Panduan cara ngoding
   + laravel
   + codeigniter
+- Wawancara  
 - Infografik
 - Daftar atau list
